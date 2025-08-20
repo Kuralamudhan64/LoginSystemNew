@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Westwind.AspNetCore.LiveReload/0.5.2": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Westwind.AspNetCore.LiveReload/0.5.2": {
+      "sha512": "G2asxO3JCzfrXai6sm5VZNtbsReU908/nj6tv/+xQzBhY2LYHS+OdSG7dbaW0j91cd2Dd6OpnUGCXpSygzwq5w==",
+      "type": "package",
+      "path": "westwind.aspnetcore.livereload/0.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.MD",
+        "icon.png",
+        "lib/net6.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net6.0/Westwind.AspNetCore.LiveReload.xml",
+        "lib/net8.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net8.0/Westwind.AspNetCore.LiveReload.xml",
+        "lib/net9.0/Westwind.AspNetCore.LiveReload.dll",
+        "lib/net9.0/Westwind.AspNetCore.LiveReload.xml",
+        "westwind.aspnetcore.livereload.0.5.2.nupkg.sha512",
+        "westwind.aspnetcore.livereload.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Westwind.AspNetCore.LiveReload >= 0.5.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kuralamudhanj\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Deployment\\ojcommerce-interim-projects\\LoginSystemUI\\LoginSystemUI.csproj",
+      "projectName": "LoginSystemUI",
+      "projectPath": "D:\\Deployment\\ojcommerce-interim-projects\\LoginSystemUI\\LoginSystemUI.csproj",
+      "packagesPath": "C:\\Users\\kuralamudhanj\\.nuget\\packages\\",
+      "outputPath": "D:\\Deployment\\ojcommerce-interim-projects\\LoginSystemUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kuralamudhanj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "dependencies": {
+          "Westwind.AspNetCore.LiveReload": {
+            "target": "Package",
+            "version": "[0.5.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

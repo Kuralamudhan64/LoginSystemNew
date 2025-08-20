@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZgZZ5SUlb8=",
+  "success": true,
+  "projectFilePath": "D:\\Deployment\\ojcommerce-interim-projects\\LoginSystemUI\\LoginSystemUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuralamudhanj\\.nuget\\packages\\westwind.aspnetcore.livereload\\0.5.2\\westwind.aspnetcore.livereload.0.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

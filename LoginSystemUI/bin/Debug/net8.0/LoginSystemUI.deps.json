@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoginSystemUI/1.0.0": {
+        "dependencies": {
+          "Westwind.AspNetCore.LiveReload": "0.5.2"
+        },
+        "runtime": {
+          "LoginSystemUI.dll": {}
+        }
+      },
+      "Westwind.AspNetCore.LiveReload/0.5.2": {
+        "runtime": {
+          "lib/net8.0/Westwind.AspNetCore.LiveReload.dll": {
+            "assemblyVersion": "0.5.2.0",
+            "fileVersion": "0.5.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoginSystemUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Westwind.AspNetCore.LiveReload/0.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G2asxO3JCzfrXai6sm5VZNtbsReU908/nj6tv/+xQzBhY2LYHS+OdSG7dbaW0j91cd2Dd6OpnUGCXpSygzwq5w==",
+      "path": "westwind.aspnetcore.livereload/0.5.2",
+      "hashPath": "westwind.aspnetcore.livereload.0.5.2.nupkg.sha512"
+    }
+  }
+}
