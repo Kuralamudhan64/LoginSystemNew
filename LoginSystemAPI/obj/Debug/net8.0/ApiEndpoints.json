@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "LoginSystemAPI.Controllers.HomeController",
+    "Method": "SignUp",
+    "RelativePath": "api/Home/SignUp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "LoginSystemAPI.Models.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
